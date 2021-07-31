@@ -58,5 +58,8 @@ COUCHDB A MONGODB
 ![image](https://user-images.githubusercontent.com/66786471/127725271-931e9c57-0573-4d6e-9210-485229d4ecfd.png)
 
 
+MONGODBATALS
+
+8. Para este preoceso procederemos a conectarnos mediante Atlas a nuestro Compass
 
 
