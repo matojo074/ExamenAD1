@@ -24,6 +24,7 @@ LOCATION
 
 
 TRACK
+
 2. Para este ejercicio usaremos el mismo scrip con la diferencia de que aumentaremos el filtro track para que su busqueda sea mas profunda y solo sea respecto a temas de los Juegos Olimpicos.
 
 ![image](https://user-images.githubusercontent.com/66786471/127723121-08b3bcd1-2b19-406e-9bc3-16c9551494ec.png)
@@ -34,8 +35,28 @@ TRACK
 
 
 TIKTOK
+
 5. En este parametro usaremos tiktok-scraper que nos ayudara a crear un documento csv, para ello mediante consola ingresaremos a una carpeta TikTok (previamente creada) y dentro de lla ejecutaremos el comando junto con el nombre del usuario del cual se esta recolectando la informacion y cual sera el formato deseado que en este caso es csv
 
 ![image](https://user-images.githubusercontent.com/66786471/127723983-62d26de8-5394-4d4f-b127-ad073a61baaa.png)
+
+
+COUCHDB A MONGODB
+
+7. Para ello generamos el JSON desde nuestro CouchDBen la parte superior izquierda
+
+![image](https://user-images.githubusercontent.com/66786471/127725027-75614440-103e-4644-970a-c6fcf7d54478.png)
+
+7.1 Procedemos a copiar el archivo JSON en un bloc de notas y lo guardamos con la terminacion .csv
+
+![image](https://user-images.githubusercontent.com/66786471/127725122-727e03fc-e787-4d82-9d2f-363e7f445b0e.png)
+
+7.2 Acontinuacion en MongoDB creamos las bases de datos y luego procedemos a subir los archivos JSON
+
+![image](https://user-images.githubusercontent.com/66786471/127725215-1b8e2f31-ca87-4a70-bf1e-d31336621dea.png)
+
+![image](https://user-images.githubusercontent.com/66786471/127725271-931e9c57-0573-4d6e-9210-485229d4ecfd.png)
+
+
 
 
