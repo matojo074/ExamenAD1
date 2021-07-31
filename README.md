@@ -62,4 +62,6 @@ MONGODBATALS
 
 8. Para este preoceso procederemos a conectarnos mediante Atlas a nuestro Compass
 
+![image](https://user-images.githubusercontent.com/66786471/127725341-92595c30-9c6f-4cc5-8487-7521b277790c.png)
+
 
