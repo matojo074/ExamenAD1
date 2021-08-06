@@ -5,10 +5,10 @@ from tweepy.streaming import StreamListener
 import json
 
 ###API ########################
-consumer_key = "irnK8KT1RrNyV9OUQDHwQ5Icx"
-consumer_secret = "IuMMfp8DM5uFjOJlu5iceDnqkzK2CkS7PkBTbTBRNR7Upgq5mP"
-access_token = "784853519497105408-8OXTILd2D1ppzvQf1jO9LY8L8iuyyZc"
-access_token_secret = "vpsfDZIzs7JcQbLo27odaSxST3MbQEsDvypkwqvlduiKd"
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_token_secret = 
 
 #####################################
 class listener(StreamListener):
